@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "majerowiznaSMP.aternos.me",
+    "ip": "MajerowiznaSMP.aternos.me",
     "port": 27293,
     "version": "1.21.11",
     "try-creative": false
